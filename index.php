@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        echo(min(0, 150, 30, 20, -8, -200));
+        echo(pi());
     ?>
 </body>
 </html>
