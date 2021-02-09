@@ -7,7 +7,11 @@
 </head>
 <body>
     <?php
-        echo(pi());
+        $t = date("H");
+
+        if ($t < "20") {
+          echo "Have a good day!";
+        }
     ?>
 </body>
 </html>
