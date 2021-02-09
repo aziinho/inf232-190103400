@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    echo 3+1;
+    echo strlen("Hello world!");
     ?>
 </body>
 </html>
