@@ -7,8 +7,7 @@
 </head>
 <body>
     <?php
-    $x = 59.85;
-    var_dump(is_int($x));
+        echo(min(0, 150, 30, 20, -8, -200));
     ?>
 </body>
 </html>
