@@ -7,7 +7,8 @@
 </head>
 <body>
     <?php
-    echo strlen("Hello world!");
+    $x = 59.85;
+    var_dump(is_int($x));
     ?>
 </body>
 </html>
